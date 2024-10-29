@@ -83,10 +83,10 @@ export function App() {
                   you want to be in, such as:
                 </p>
                 <div className="icons">
-                  <li><img src="assets/tree.svg" alt="tree" />Nature</li>
-                  <li><img src="assets/cloudrain.svg" alt="rain" />Rain</li>
-                  <li><img src="assets/fire.svg" alt="fire" />Fireplace</li>
-                  <li><img src="assets/storefront.svg" alt="store" />Cafeteria</li>
+                  <li><img src="/tree.svg" alt="tree" />Nature</li>
+                  <li><img src="/cloudrain.svg" alt="rain" />Rain</li>
+                  <li><img src="/fire.svg" alt="fire" />Fireplace</li>
+                  <li><img src="/storefront.svg" alt="store" />Cafeteria</li>
                   
                   
                 </div>
