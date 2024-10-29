@@ -19,7 +19,7 @@ export function App() {
         <div className="texts">
             <p>Hi there! My name is Ezequiel Rabello.</p>
             <h1>Frontend <br />Developer</h1>
-            <p><a href="#/">Click here</a> to explorer!</p>
+            <p>to explorer!</p>
         </div>
 
         <a id="github" href="https://github.com/ezequielrabello" target="#">
