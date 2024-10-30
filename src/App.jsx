@@ -1,5 +1,5 @@
 import { Container, Presentation, Content } from "./styles"
-import image from "public/icons8_github48.svg"
+/* import image from "public/icons8_github48.svg" */
 import image2 from "public/mobdevlinks.png"
 import image3 from "public/desktopdevlink.png"
 import image4 from "public/focustimermobile.png"
@@ -23,7 +23,7 @@ export function App() {
         </div>
 
         <a id="github" href="https://github.com/ezequielrabello" target="#">
-            <img src={image} alt="Github icon"/>
+            <img src="public/icons8_github48.svg" alt="Github icon"/>
         </a>
       </Presentation>
 
