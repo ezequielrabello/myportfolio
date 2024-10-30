@@ -23,7 +23,7 @@ export function App() {
         </div>
 
         <a id="github" href="https://github.com/ezequielrabello" target="#">
-            <img src="public/icons8_github48.svg" alt="Github icon"/>
+            <img href="public/icons8_github48.svg" alt="Github icon"/>
         </a>
       </Presentation>
 
