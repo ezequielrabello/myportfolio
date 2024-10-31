@@ -1,14 +1,14 @@
 import { Container, Presentation, Content } from "./styles"
-/* import image from "public/icons8_github48.svg" */
-import image2 from "./myportfolio/dist/mobdevlinks.png"
-import image3 from "./myportfolio/dist/desktopdevlink.png"
-import image4 from "./myportfolio/dist/focustimermobile.png"
-import image5 from "./myportfolio/dist/focustimerdesk.png"
-import image6 from "./myportfolio/dist/rocketnotes1.png"
-import image7 from "./myportfolio/dist/rocketnotes2.png"
-import image8 from "./myportfolio/dist/agecalctablet.png"
-import image9 from "./myportfolio/dist/agecalcdesk.png"
-import image10 from "./myportfolio/dist/piano.png"
+import image from "./public/icons8_github48.svg" 
+import image2 from "./public/mobdevlinks.png"
+import image3 from "./public/desktopdevlink.png"
+import image4 from "./public/focustimermobile.png"
+import image5 from "./public/focustimerdesk.png"
+import image6 from "./public/rocketnotes1.png"
+import image7 from "./public/rocketnotes2.png"
+import image8 from "./public/agecalctablet.png"
+import image9 from "./public/agecalcdesk.png"
+import image10 from "./public/piano.png"
 
 
 export function App() {
@@ -23,7 +23,7 @@ export function App() {
         </div>
 
         <a id="github" href="https://github.com/ezequielrabello" target="#">
-            <img href="public/icons8_github48.svg" alt="Github icon"/>
+            <img src={image} alt="Github icon"/>
         </a>
       </Presentation>
 
