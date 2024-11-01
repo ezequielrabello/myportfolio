@@ -83,7 +83,7 @@ export function App() {
                   you want to be in, such as:
                 </p>
                 <div className="icons">
-                  <li><img src="../dist/tree.svg" alt="tree" />Nature</li>
+                  <li><img src="/tree.svg" alt="tree" />Nature</li>
                   <li><img src="../dist/cloudrain.svg" alt="rain" />Rain</li>
                   <li><img src="../dist/fire.svg" alt="fire" />Fireplace</li>
                   <li><img src="../dist/storefront.svg" alt="store" />Cafeteria</li>
